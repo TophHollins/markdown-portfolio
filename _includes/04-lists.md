@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Music
+* Anime
+  * Cowboy Bebop
+  * Dragon Ball Z
